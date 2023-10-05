@@ -1,0 +1,59 @@
+body{margin: 0; padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EA202C;}
+
+header{background-color: #342009; overflow: hidden; padding: 15px 20px;}
+
+article{background-color: #FB8604; overflow: hidden;
+padding: 5px 2px;}
+
+section{background-color: #EEF0DB; overflow: hidden; padding: 15px 20px ; padding-bottom: 250px; padding-top: 10px;}
+
+footer{padding: 5px 30px;
+    background-color: #342009; color: #EA202C;
+}
+
+nav a{
+    text-decoration: none;  
+    font-family: verdana;
+    background: inherit;
+    color: #093426;
+    font-size: 18px;
+    padding: 20px;
+}
+
+
+.fL{float: left;}
+.tL{ color: black ; font-size: 15px;}
+.tJ{color: black;}
+.jL{ color: black ; font-size: 40px;}
+.bL{float: right; color:#EA202C;}
+.fR{float: right; padding: 10px;}
+.bR{margin: 25px; margin-right: 50px;}
+
+.box1{
+    width: 220px; height: 220x;
+    margin: 10px;
+}
+.bykr{
+    box-shadow: 5px 5px 10px rgba(30, 14, 1, 0.7);
+}     
+.jarak{
+    padding-left: 770px;
+}
+.Label {
+    width: 100px;
+    padding: 1px;
+    position: relative;
+    float: left;
+}
+.form{
+    color: black;
+    font-size: 20px;
+}
+.jBox{
+    padding: 45px 45px;
+}
+.ddButton{
+    font-size: 20px;
+}

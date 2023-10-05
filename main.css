@@ -1,0 +1,58 @@
+body{margin: 0; padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #B1BBf1;}
+
+header{background-color: #5E4108; overflow: hidden;}
+
+article{background-color: #ba7d03; overflow: hidden;
+padding: 5px 50px;}
+
+section{background-color: #e6e1d5; overflow: hidden; padding: 15px 50px; padding-bottom: 90px;}
+
+footer{padding: 5px 30px;
+    background-color: #2f2208; color: #ba7d03;
+}
+
+nav a{
+    text-decoration: none;  
+    font-family: verdana;
+    background: inherit;
+    color: #F7DDD4;
+    font-size: 18px;
+    padding: 20px;
+}
+
+nav a:hover{background-color: #2f2208;}
+
+.container{ width: 90%; height: 70px; margin: auto; padding: 25px;}
+
+.topL{width: 150px; position: relative;}
+
+.topR{position: relative; right: 35px;}
+.midR{position: relative; left: 35px;}
+.fL{float: left;}
+.tL{float: left; color: black ;}
+.bL{float: right; color: #ba7d03;}
+.tJ{color: black;}
+.fR{float: right;}
+.clr{clear: both;}
+.shdw{text-shadow: 15px 20px 15px #2f2208;}
+
+.banner{
+    position: relative; margin: 10px; left: 50px;
+}
+.box{
+    position: relative; 
+    width: 550px; height: 270px;
+    margin: 10px; padding: 50px;
+    left: 50px;
+}
+.box1{
+    position: relative; 
+    width: 550px; height: 370px;
+    margin: 10px; padding: 50px;
+    left: 50px;
+}
+.bykr{
+    box-shadow: 5px 5px 10px rgba(30, 14, 1, 0.7);
+}     
